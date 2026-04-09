@@ -1,0 +1,11 @@
+1. To integrate uv in the project: "uv init"
+
+2. To install specific version of python: "uv python install "version for example: 3.11"
+
+3. create virtual enviroment with python install version: "uv venv "enviroment name" --python 3.11"
+
+4. activate virtual enviroment: "myvenv\Scripts\activate"
+
+5. avoid pushing unneccessory folders/files to github: for cmd: "echo.>.gitignore"
+
+6. add dependencies in requirements.txt and install: uv pip install -r requirements.txt
