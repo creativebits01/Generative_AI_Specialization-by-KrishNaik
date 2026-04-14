@@ -13,3 +13,10 @@ mteb
 ipykernel
 langchain_google_genai
 langchain-openai
+
+# packages for web scraping and data manipulation
+beautifulsoup4
+requests
+pandas
+selenium
+webdriver-manager
